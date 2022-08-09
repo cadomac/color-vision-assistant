@@ -3,9 +3,8 @@
     "manifest_version": 2,
     "name": "Color Vision Assistant",
     "version": "0.5.0",
-  
     "description": "Provides tools to aid individuals with color vision deficits.",
-  
+    "license": "ISC",
     "icons": {
       "48": "icons/border-48.png"
     },
