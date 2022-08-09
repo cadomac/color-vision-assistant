@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "Color Vision Assistant",
-    "version": "1.0",
+    "version": "0.5.0",
   
     "description": "Provides tools to aid individuals with color vision deficits.",
   
